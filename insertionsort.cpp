@@ -33,4 +33,4 @@ int main(){
 
 //Time Complexity: O(n^2) for avg and worst case
 //                 O(n) for best case as there are no swaps happening and we are just traversing through the list
-//Take an element and place it in its correct order in the list.
+//Take an element and place it in its correct order in the list by comparing the current element with the left element.
