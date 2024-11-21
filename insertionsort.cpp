@@ -30,3 +30,7 @@ int main(){
     printf("\n");
     return 0;
 }
+
+//Time Complexity: O(n^2) for avg and worst case
+//                 O(n) for best case as there are no swaps happening and we are just traversing through the list
+//Take an element and place it in its correct order in the list.
