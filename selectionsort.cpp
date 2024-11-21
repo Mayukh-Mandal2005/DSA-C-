@@ -30,3 +30,6 @@ int main(){
     printf("\n");
     return 0;
 }
+
+//Time Complexity: O(n^2) for all cases
+// In this sorting algorithm, we find the minimum element in the list and place it at the beginning of the list and swap the element present at the beginning with the minimum element found. We repeat this process for all the elements in the list. This is how the selection sort algorithm works.
